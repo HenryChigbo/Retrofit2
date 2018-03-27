@@ -1,0 +1,8 @@
+
+Insight from lit about prototyping and relate to practical experience from own from the course
+
+- Why we use prototypes (Feedback, iteration, Testing, )
+- How prototypes function for us as designers (validate assumptions)
+- quality ofr prototypes (Low and high fidelity prototypes)
+
+- When to user prototype (early, in the middle of design process and final stage)
